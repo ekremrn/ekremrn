@@ -1,40 +1,19 @@
 # Hi, I'm Eren
 
-**AI Systems Engineer** focused on building *production-grade* AI products, scalable backend systems, and real-time intelligent platforms.
+**Applied AI Engineer**
 
-My work sits at the intersection of **applied AI**, **backend engineering**, and **infrastructure**. I design and operate systems that combine machine learning, retrieval, distributed processing, and cloud-native deployment in real production environments.
+I work on applied AI systems, backend infrastructure, and MLOps.  
+Most of my work revolves around multimodal retrieval, LLM/VLM-based workflows, scalable services, and real-time products.
 
-Over time, my focus has expanded beyond model integration into **AI product engineering**, **MLOps**, and **platform-level system design**. I am particularly interested in problems where **multimodal understanding**, **retrieval pipelines**, **deployment workflows**, and **product thinking** need to come together in a reliable and scalable way.
+## What I do / Currently interested in
 
-## Current Focus
+- Applied AI and product-oriented AI systems
+- Multimodal retrieval and LLM/VLM workflows
+- Backend infrastructure and scalable services
+- MLOps, deployment, and real-time systems
+- Algorithmic and agentic trading tools
 
-- **Large-scale multimodal AI systems**
-- **Retrieval and vector search infrastructures**
-- **LLM- and VLM-powered analysis workflows**
-- **MLOps and cloud-native deployment practices**
-- **Distributed backend systems and real-time pipelines**
-- **Algorithmic and agentic trading systems**
-
-## System Domains
-
-### Brand Protection & Visual Intelligence
-Designing systems that analyze large volumes of **product**, **image**, and **metadata** streams for automated similarity search, monitoring, and counterfeit detection workflows.
-
-### Real-Time Market Intelligence
-Building AI-assisted platforms that combine **algorithmic modelling**, **mathematical indicators**, **real-time data processing**, and **LLM-supported interpretation** for structured decision support.
-
-### AI Product & Platform Engineering
-Working on the layer where **product requirements** meet **infrastructure**: backend services, deployment pipelines, observability, system integration, and production AI operations.
-
-## Selected Stack
-
-- **AI / ML:** LLM applications, multimodal retrieval, computer vision, visual-language models, RAG, embeddings  
-- **Backend:** Python, Go, FastAPI, Flask, REST APIs, distributed services  
-- **Data:** MongoDB, PostgreSQL, Qdrant, Redis, Kafka, RabbitMQ  
-- **Infra / MLOps:** Docker, Kubernetes, Terraform, Argo CD, CI/CD, observability  
-- **Cloud:** AWS, Google Cloud, Azure
-
-## Contact
+## Connect
 
 - LinkedIn: [linkedin.com/in/ekrem-eren-yılmaz](https://linkedin.com/in/ekrem-eren-y%C4%B1lmaz)
-- Email: ekremezm@gmail.com
+- Email: [ekremezm@gmail.com](mailto:ekremezm@gmail.com)
